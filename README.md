@@ -153,3 +153,5 @@ Broncos Country originated as a University of Colorado Denver classroom initiati
 The Broncos Country Music Streaming Milestone Dashboard was created to provide University of Colorado leadership with a transparent, data-driven review of student achievement. The dashboard combines streaming performance, geographic reach, platform analytics, and Billboard-equivalent calculations into a single reporting tool that supports informed decision-making while celebrating the accomplishments of the student creators.
 
 The Broncos Country project demonstrates how classroom learning can extend beyond traditional academic environments and create measurable impact in the real world. The results documented within this dashboard provide evidence of both student engagement and audience reach, supporting the University's ongoing commitment to experiential learning and student success.
+
+ChatGPT was used to help speed the project, to experiment with tools, and to help create the readme documentation.
